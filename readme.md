@@ -11,7 +11,7 @@ I am a highly motivated mobile development engineer with a proven track record o
 
 - ✉️ victor.galvez56@gmail.com
 - 📞 +51 933336359
-- 🌐 [Portfolio](https://portfolio-victor-galvez.netlify.app/)
+- 🌐 [Portfolio](https://victorgalvez.dev/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-galvez-260910177/)
 
 ## 🛠️ Skills
@@ -52,8 +52,8 @@ Universidad Tecnológica del Perú (2015 - 2020)
 
 ## 🏆 Achievements and Recognitions
 
-- 🥇 First place in the national Hackathon el Comercio
-- 🥈 Second place in Latam Hackathon #APEXHACK20 Oracle Cloud
+- 🥇 First place in the national Hackathon [El Comercio](https://elcomercio.pe/tecnologia/tecnologia-jovenes-peruanos-disenan-una-app-para-combatir-la-violencia-de-genero-noticia/)
+- 🥈 Second place in Latam Hackathon  [#APEXHACK20](https://blogs.oracle.com/apex/post/apexhack20-primer-hackaton-en-latinoam%C3%A9rica) Oracle Cloud 
 
 ## 💡 Work Philosophy
 

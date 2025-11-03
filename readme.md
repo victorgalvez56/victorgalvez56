@@ -1,64 +1,145 @@
-# 👋 Hi, I'm Victor Gálvez
+# Victor Edison Gálvez Chávez
 
-**Senior FrontEnd/Mobile Developer**  
-**ReactJS | React Native | Flutter**
+## Tech Lead & Mobile Software Engineer
 
-🌟 Welcome to my GitHub profile! I am a passionate mobile and frontend developer with extensive experience in creating intuitive and efficient user interfaces. I love solving complex problems and developing innovative technological solutions.
-
-## 🚀 About Me
-
-I am a highly motivated mobile development engineer with a proven track record of optimizing user interfaces for optimal performance. My expertise lies in **React Native**, **ReactJS**, **Vue**, and other frontend technologies. I've worked on exciting projects ranging from digital wallets to fitness applications.
-
-- ✉️ victor.galvez56@gmail.com
-- 📞 +51 933336359
-- 🌐 [Portfolio](https://victorgalvez.dev/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-galvez-260910177/)
-
-## 🛠️ Skills
-
-- **Mobile Development:** React Native, Expo, Flutter
-- **Frontend Development:** React, Vue, HTML5, CSS3 (Responsive Design)
-- **JavaScript:** ES6 and beyond, functional programming
-- **Version Control:** GIT - GITFLOW
-- **UI/UX:** Design implementation in Figma, Bootstrap, Native Base, Tailwind
-- **Agile Methodologies:** Scrum
-- **Backend:** Laravel, CakePHP, CodeIgniter, NodeJS, NestJS, TypeORM
-- **Containers:** Docker
-
-## 🌟 Highlighted Projects
-
-### [My Nafa](https://apps.apple.com/pe/app/mynafa/id6448121561) | [PlayStore](https://play.google.com/store/apps/details?id=com.mynafa)
-The innovative digital wallet for transactions in Africa! With a focus on accessibility and security, it's the preferred choice for managing digital money.  
-**Technologies:** React Native, TypeScript, Native Base
-
-### [Novo Cine2](https://apps.apple.com/pe/app/eventrid-organizer/id1524303936) | [PlayStore](https://play.google.com/store/apps/details?id=com.eventrid.organizer)
-Easily order food at drive-ins! This app enhances the user experience while enjoying movies outdoors.  
-**Technologies:** Ionic, ReactJs, TypeScript
-
-### [Fit Logger](https://apps.apple.com/pe/app/fit-logger-log-daily-fitness/id1580047856)
-Your companion for tracking your daily physical activity in the US.  
-**Technologies:** React Native, Expo, Ignite
-
-## 🎓 Education
-
-**Bachelor in Systems Engineering and Informatics**  
-Universidad Tecnológica del Perú (2015 - 2020)
-
-## 📜 Certifications
-
-- **React from Zero to Expert** (Udemy)
-- **React Native: Create Real iOS and Android Mobile Apps** (Udemy)
-- **Basic Course of Vue.js 2** (Platzi)
-
-## 🏆 Achievements and Recognitions
-
-- 🥇 First place in the national Hackathon [El Comercio](https://elcomercio.pe/tecnologia/tecnologia-jovenes-peruanos-disenan-una-app-para-combatir-la-violencia-de-genero-noticia/)
-- 🥈 Second place in Latam Hackathon  [#APEXHACK20](https://blogs.oracle.com/apex/post/apexhack20-primer-hackaton-en-latinoam%C3%A9rica) Oracle Cloud 
-
-## 💡 Work Philosophy
-
-I believe in the power of collaboration and the importance of good communication. I enjoy working in multidisciplinary teams and am always looking for new challenges that allow me to grow and learn.
+**Email:** victor.galvez56@gmail.com  
+**Phone:** +51 933336359  
+**LinkedIn:** [linkedin.com/in/víctor-galvez-260910177](https://www.linkedin.com/in/víctor-galvez-260910177/)  
+**Portfolio:** [victorgalvez.dev](https://victorgalvez.dev/)
 
 ---
 
-Thank you for visiting my profile! Feel free to contact me if you want to collaborate or just chat about technology. I'm always open to new opportunities and technological adventures! 🌐🚀
+## Professional Summary
+
+Tech Lead and Mobile Software Engineer with over 7 years of experience leading development teams and delivering scalable solutions for global markets (USA, Africa, Chile, Canada, New Zealand). Specialized in modern mobile and web application architectures, with technical expertise in React Native, Flutter, and the JavaScript/TypeScript ecosystem.
+
+Currently leading the implementation of Super App architectures with microfrontends, using Re.Pack and Module Federation. Proven track record in managing development teams, establishing best practices, and accelerating product delivery through agile methodologies and continuous technical mentorship. Strong experience in building digital wallet systems with thousands of active users in Africa and event systems with over 50k users. Winner of national and international hackathons.
+
+---
+
+## Work Experience
+
+### Software Engineer Mobile
+**Dynamic Devs, Chile | May 2025 – Present**
+
+- Designed and implemented Super App architecture with miniapps using React Native microfrontends.
+- Led the implementation of Module Federation with Re.Pack for dynamic loading of independent modules.
+- Built a scalable miniapp ecosystem with modular architecture enabling independent deployments.
+- Optimized bundles and significantly improved performance in complex modular applications.
+- **Stack:** React Native, Re.Pack, Module Federation, TypeScript, Node.js, AWS
+
+### Frontend Architect
+**QDS Software & Quality, Peru | September 2024 – April 2025**
+
+- Designed and implemented microfrontend architecture for scalable enterprise web applications.
+- Led the adoption of Module Federation for independent frontend module development and deployment.
+- Developed integration strategies for microfrontends using Next.js and React frameworks.
+- Improved performance and reduced bundle size through advanced code splitting and lazy loading.
+- **Stack:** Next.js, React, Module Federation, TypeScript, NestJS, AWS
+
+### Tech Lead Mobile
+**SMA Software, USA | May 2022 – July 2024**
+
+- Led development of a digital wallet that became the preferred solution across multiple African countries, processing thousands of daily transactions.
+- Implemented monitoring systems (Firebase Analytics, Crashlytics) improving stability by 40%.
+- Supervised successful deployment of 4 mobile apps with unit and integration testing.
+- Managed a remote development team, establishing code review and pair programming practices.
+- Coordinated with stakeholders and product teams to define technical roadmaps.
+
+**Key Projects:**
+- **Iwal:** International money transfer app
+- **SendNafa:** Money transfers to Africa (100k+ downloads)
+- **My Nafa:** Virtual wallet with KYC/AML compliance
+- **My Nafa Agent:** Digital POS system (5k+ active agents)
+
+- **Stack:** React, React Native, Flutter, Node.js (NestJS), Firebase, Redux, TypeScript
+
+### Full Stack Developer
+**Lixsys, Chile | March 2021 – April 2022**
+
+- Developed multiple mobile and web apps for events and fitness with 50k+ active users.
+- Optimized React app performance, reducing load times by 60%.
+- Built scalable backend services using NestJS with microservices and Redis caching.
+
+**Key Projects:**
+- **Eventrid (Chile):** Complete event management app suite (4 apps published)
+- **HanuFit (Chile):** Comprehensive Fitness & Wellness platform with streaming and social community
+- **DesafioGLP1:** LMS platform for healthcare professionals
+
+- **Stack:** React, Angular, Ionic, Node.js (NestJS), CakePHP, PostgreSQL, Redis
+
+---
+
+## Freelance Projects
+
+### Mobile Developer | B7Dev, Uruguay | 2021 – 2022
+
+Led mobile app development for clients in New Zealand, Canada, and the USA.
+
+**Projects:** Brewtopia (New Zealand), Pixie App (Canada), Fit Logger (USA - App Store), LinksGolf (USA - App Store)
+
+- Implemented scalable architecture using Ignite boilerplate, accelerating development by 40%.
+- Set up automated CI/CD pipelines with Fastlane.
+- **Stack:** React Native, Expo, Ignite, TypeScript, Firebase
+
+### Mobile Developer | Netic, Spain | 2022
+
+**Project:** GoTrucki – Driving time management app for truck drivers (App Store & Play Store).
+- **Stack:** React Native, Apollo Client, GraphQL, Node.js (NestJS)
+
+---
+
+## Education
+
+### Bachelor’s Degree in Systems and Computer Engineering
+**Universidad Tecnológica del Perú (UTP) | 2015 – 2020**
+
+Bachelor’s degree in Systems and Computer Engineering with a focus on software development and scalable architectures.
+
+---
+
+## Certifications
+
+- **React from Zero to Expert** – Udemy (2021)
+- **React Native: Build Real Mobile Apps for iOS and Android** – Udemy (2021)
+- **Basic Vue.js 2 Course** – Platzi (2020)
+- **English B2 (CEFR)** – Euroidiomas (October 2021)
+
+---
+
+## Achievements & Awards
+
+### Hackathons
+- **First Place (National)** – Hackathon El Comercio & UTP (November 2021)
+  - Developed an innovative solution in record time with a multidisciplinary team.
+  - [See article](https://elcomercio.pe/tecnologia/tecnologia-jovenes-peruanos-disenan-una-app-para-combatir-la-violencia-de-genero-noticia/)
+
+- **Second Place (Latin America)** – Hackathon #APEXHACK20 Oracle Cloud (November 2020)
+  - Implemented a cloud-native solution using Oracle Cloud Infrastructure.
+  - [Watch video](https://www.youtube.com/watch?v=iM9DO2ET1pk)
+
+---
+
+## Technical Skills
+
+- **Programming Languages:** JavaScript (ES6+), TypeScript, Python
+- **Front-End:** React.js, React Native, Angular, Vue.js, Next.js, HTML5, CSS3
+- **Back-End:** Node.js, Express.js, NestJS, Laravel
+- **Architecture:** Module Federation, Microfrontends, Super Apps, Monorepo, Re.Pack
+- **Databases:** PostgreSQL, MongoDB, MySQL, Redis
+- **DevOps & Cloud:** AWS (EC2, S3, Lambda), Firebase, Docker, CI/CD (GitHub Actions, GitLab CI, Fastlane)
+- **Testing:** Jest, Detox
+- **Version Control:** Git, GitHub
+- **Tools:** Figma, Jira
+- **Methodologies:** Agile, Scrum
+
+---
+
+## Languages
+
+- **Spanish:** Native
+- **English:** B2
+
+---
+
+*Last updated: October 2024*

@@ -18,7 +18,7 @@
 ## What I've Built
 
 - **Super App architecture** with miniapps using React Native microfrontends (Re.Pack + Module Federation)
-- **Digital wallet ecosystem** — 4 apps in production processing thousands of daily transactions across Africa
+- **Digital wallet ecosystem** — 4 apps in production processing millions of daily transactions across Africa
 - **Event & fitness platforms** — multiple apps with 50k+ active users
 - **Microfrontend systems** — enterprise web apps with independent module deployments
 

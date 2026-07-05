@@ -24,6 +24,7 @@
 
 ## Recognition
 
+- **2nd Place** — Hackathon DSC PUCP · Vibecoding 2026 — *Vigía*, plataforma de datos abiertos del Estado peruano ([repo](https://github.com/victorgalvez56/dsc-pucp-vibecoding-2026-hack) · [demo](https://dsc-pucp-vibecoding-2026-hack.vercel.app))
 - **1st Place** — Hackathon El Comercio & UTP ([article](https://elcomercio.pe/tecnologia/tecnologia-jovenes-peruanos-disenan-una-app-para-combatir-la-violencia-de-genero-noticia/))
 - **2nd Place LATAM** — #APEXHACK20 Oracle Cloud ([video](https://www.youtube.com/watch?v=iM9DO2ET1pk))
 

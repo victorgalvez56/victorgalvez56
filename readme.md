@@ -25,6 +25,7 @@
 ## Recognition
 
 - **2nd Place** — Hackathon DSC PUCP · Vibecoding 2026 — *Vigía*, plataforma de datos abiertos del Estado peruano ([repo](https://github.com/victorgalvez56/dsc-pucp-vibecoding-2026-hack) · [demo](https://dsc-pucp-vibecoding-2026-hack.vercel.app))
+- **Selected Project** — hack@latam 2026 (Transparency & Corruption track) — *TransparentApe*, an open public-works map that auto-flags irregularities. Didn't take the top prize, but proud it made the selected round 🙌 ([repo](https://github.com/victorgalvez56/transparentape) · [demo](https://transparentape.app/))
 - **1st Place** — Hackathon El Comercio & UTP ([article](https://elcomercio.pe/tecnologia/tecnologia-jovenes-peruanos-disenan-una-app-para-combatir-la-violencia-de-genero-noticia/))
 - **2nd Place LATAM** — #APEXHACK20 Oracle Cloud ([video](https://www.youtube.com/watch?v=iM9DO2ET1pk))
 
